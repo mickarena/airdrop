@@ -1,0 +1,16 @@
+.dockerignore
+.env
+.git
+.gitignore
+.vs
+.vscode
+*/bin
+*/obj
+*/properties
+**/.toolstarget
+.vs
+*.user
+docker-files
+jenkins-files
+Renewal.API.UnitTests
+Renewal.Application.UnitTests
