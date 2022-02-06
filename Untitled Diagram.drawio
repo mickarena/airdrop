@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-06T15:13:18.696Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="INoRymJjoGECgfCtbHlc" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-06T15:13:57.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="EJURXoBF9ro0S-Yyb6Qu" version="15.2.9" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -124,10 +124,10 @@
             <mxPoint x="-79" y="49" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ikTmtLyOP_5VFvTUV_Do-10" value="" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;entryX=1.3;entryY=0.885;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.4;exitY=0.568;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ikTmtLyOP_5VFvTUV_Do-2" target="ikTmtLyOP_5VFvTUV_Do-18">
+        <mxCell id="ikTmtLyOP_5VFvTUV_Do-10" value="" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;entryX=1.3;entryY=0.885;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ikTmtLyOP_5VFvTUV_Do-18">
           <mxGeometry x="-0.0303" relative="1" as="geometry">
             <mxPoint x="330" y="334" as="targetPoint" />
-            <mxPoint x="600" y="385" as="sourcePoint" />
+            <mxPoint x="626" y="385" as="sourcePoint" />
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
@@ -142,6 +142,9 @@
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ikTmtLyOP_5VFvTUV_Do-33" value="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Lock quote&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="220" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
